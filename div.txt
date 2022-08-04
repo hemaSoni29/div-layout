@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Title</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="assigement.css">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="jumbotron">
+        <div class="container-fluid">
+            <h1 class="display-3 text-center text-light">Our Partners</h1>
+            <p class="lead text-center text-light">Compare From Leading Insurance In India</p>
+            <div class="row">
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (20).png" alt="">
+                        <h3><a href="">Uni bank</a></h3>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (1).jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (1).png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (2).jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (2).png" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="row row1">
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (3).jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (3).png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (14).png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (4).png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (5).jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (5).png" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="row row1">
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (6).jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="carrier.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (7).jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (7).png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (19).png" alt="images.png">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (9).png" alt="">
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row row1">
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (10).jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (10).png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (11).jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (11).png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (12).jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (12).png" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="row row1">
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (13).jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (13).png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (14).jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (18).png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (15).jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 px-1 mb-2">
+                    <div class="card">
+                        <img class="card-img-top image1" src="download (16).png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
